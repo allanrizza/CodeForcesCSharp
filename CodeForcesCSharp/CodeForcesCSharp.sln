@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeForcesCSharp", "CodeFor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "59A-Word", "..\59A-Word\59A-Word.csproj", "{20F2CB04-B024-465F-AEEC-59CE8C2742E5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StonesOnTheTable", "..\StonesOnTheTable\StonesOnTheTable.csproj", "{ACBA95D3-D27B-4EFE-8A43-72B4D548FA08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "266A-StonesOnTheTable", "..\StonesOnTheTable\266A-StonesOnTheTable.csproj", "{ACBA95D3-D27B-4EFE-8A43-72B4D548FA08}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautifulMatrix", "..\BeautifulMatrix\BeautifulMatrix.csproj", "{375B1A10-5547-42AC-B901-689FE00E72F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "263A-BeautifulMatrix", "..\BeautifulMatrix\263A-BeautifulMatrix.csproj", "{375B1A10-5547-42AC-B901-689FE00E72F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
