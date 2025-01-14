@@ -1,4 +1,6 @@
-﻿string input = Console.ReadLine();
+﻿//exists a better way to solve this problem using an array of prime numbers
+
+string input = Console.ReadLine();
 
 string[] numbers = input.Split(' ');
 
