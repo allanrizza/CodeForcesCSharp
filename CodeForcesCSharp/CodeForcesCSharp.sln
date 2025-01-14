@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "266A-StonesOnTheTable", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32B-Borze", "..\32B-Borze\32B-Borze.csproj", "{42AF4193-FCB9-4F93-816C-49BD66B97D49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "80A-PanoramixsPrediction", "..\80A-PanoramixPrediction\80A-PanoramixsPrediction.csproj", "{DBCAB93A-99C7-43D1-BCB5-E37D1AC0CE1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{42AF4193-FCB9-4F93-816C-49BD66B97D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42AF4193-FCB9-4F93-816C-49BD66B97D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42AF4193-FCB9-4F93-816C-49BD66B97D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCAB93A-99C7-43D1-BCB5-E37D1AC0CE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCAB93A-99C7-43D1-BCB5-E37D1AC0CE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCAB93A-99C7-43D1-BCB5-E37D1AC0CE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCAB93A-99C7-43D1-BCB5-E37D1AC0CE1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
